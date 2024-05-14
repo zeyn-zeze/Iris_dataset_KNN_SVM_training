@@ -1,0 +1,11 @@
+1.iteration C value: 1.0, Accuracy Score: 0.9622641509433962
+2.iteration C value: 0.5, Accuracy Score: 0.9433962264150944
+3.iteration C value: 0.25, Accuracy Score: 0.9245283018867925
+4.iteration C value: 0.125, Accuracy Score: 0.9622641509433962
+5.iteration C value: 0.0625, Accuracy Score: 0.9433962264150944
+6.iteration C value: 0.03125, Accuracy Score: 0.9056603773584906
+7.iteration C value: 0.015625, Accuracy Score: 0.8679245283018868
+8.iteration C value: 0.0078125, Accuracy Score: 0.8679245283018868
+9.iteration C value: 0.00390625, Accuracy Score: 0.6226415094339622
+10.iteration C value: 0.001953125, Accuracy Score: 0.2830188679245283
+Best accuracy : 0.9622641509433962 , Best C value  : 1

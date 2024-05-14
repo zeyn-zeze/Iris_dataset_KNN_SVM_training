@@ -1,0 +1,21 @@
+Accuracy for K = 1 : 0.96
+Accuracy for K = 2 : 0.96
+Accuracy for K = 3 : 0.96
+Accuracy for K = 4 : 0.96
+Accuracy for K = 5 : 0.98
+Accuracy for K = 6 : 0.98
+Accuracy for K = 7 : 0.98
+Accuracy for K = 8 : 0.98
+Accuracy for K = 9 : 0.98
+Accuracy for K = 10 : 0.98
+Accuracy for K = 11 : 0.98
+Accuracy for K = 12 : 0.98
+Accuracy for K = 13 : 0.98
+Accuracy for K = 14 : 0.98
+Accuracy for K = 15 : 0.98
+Accuracy for K = 16 : 0.98
+Accuracy for K = 17 : 0.98
+Accuracy for K = 18 : 0.98
+Accuracy for K = 19 : 0.98
+Accuracy for K = 20 : 0.98
+ The best K value is 5 with 0.98 accuracy(max)
