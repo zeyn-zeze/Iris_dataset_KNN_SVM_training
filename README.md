@@ -1,4 +1,4 @@
-# Iris Dataset Classification with K-Nearest Neighbors (KNN) and Support Vector Machine (SVM)
+# Iris Datasetinin K-Nearest Neighbors (KNN) ve Support Vector Machine (SVM) İle Sınıflandırması 
 
 Bu proje, ünlü Iris veri setini kullanarak K-Nearest Neighbors (KNN) ve Support Vector Machine (SVM) algoritmalarını uygulamak için bir örnektir.
 
